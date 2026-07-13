@@ -4,10 +4,6 @@
 
 它把 X Article《别不信！ WorkBuddy 就可以把你的小红书从0粉干到1000》中的方法，整理成 6 个可执行 skill，并进一步融合：
 
-- yanliudreamer 小红书系列中的起号、个人 IP、内容验证和长期增长方法
-- [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill/tree/main) 中适合小红书运营的标题、内容诊断、对标、共鸣、开头、文风和复盘模块
-- [ziguishian/xhs-visual-director-skill](https://github.com/ziguishian/xhs-visual-director-skill) 中适合图文内容的视觉导演方法
-
 这不是一份文章摘要，而是一套可以被 Agent 调用的内容运营工作流。它覆盖小红书账号从 0 到稳定迭代的关键环节：定位、变现、对标、账号记忆、选题标题、初稿校准、图文拆页、视觉方向、发布排期和数据复盘。
 
 原始 WorkBuddy 文章：
